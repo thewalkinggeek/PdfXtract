@@ -42,4 +42,5 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3).
 
 ---
 
-*Copyright © 2024 Jonathan Schoenberger*
+
+*Copyright © 2025 Jonathan Schoenberger*
