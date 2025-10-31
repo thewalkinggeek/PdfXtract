@@ -1,6 +1,6 @@
 # PdfXtract - A PDF Asset Extraction Utility
 
-PdfXtract is a modern desktop application for extracting various assets from PDF documents. Built with CustomTkinter, it provides a user-friendly, theme-aware experience for both Windows and macOS.
+PdfXtract is a modern desktop application for extracting various assets from PDF documents. Built with Python + CustomTkinter, it provides a user-friendly, theme-aware experience for both Windows and macOS.
 
 ## Key Features
 
@@ -44,3 +44,4 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3).
 
 
 *Copyright © 2025 Jonathan Schoenberger*
+
