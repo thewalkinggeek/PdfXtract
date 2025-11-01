@@ -23,7 +23,7 @@ pip install customtkinter PyMuPDF Pillow tkinterdnd2 easyocr
 
 ## How to Use
 
-1.  Run the `pdfxtract.pyw` script.
+1.  Run the `pdfxtract.py` script.
 2.  Click **"Select PDF"** to choose your file (or drag and drop it onto the window).
 3.  Click **"Output Folder"** to choose where to save the extracted assets.
 4.  Click one of the **"Extract..."** buttons to begin the process.
@@ -44,4 +44,5 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3).
 
 
 *Copyright © 2025 Jonathan Schoenberger*
+
 
